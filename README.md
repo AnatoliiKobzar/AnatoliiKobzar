@@ -48,3 +48,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/AnatoliiKobzar/AnatoliiKobzar/blob/output/snake.svg" alt="Snake animation" />
+
+###
