@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">I have a sound knowledge of HTML, CSS, JavaScript and React. Currently, I`m learning Node.js.</h3>
+<h3 align="left">I have a sound knowledge of HTML, CSS, JavaScript, React and Node.js.</h3>
 
 ###
 
